@@ -16,13 +16,13 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/IamDvis/DV-CHATBOT)  
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴄᴜᴛɪᴇ ✯ ᴅᴠ](https://t.me/OfficialDurgesh)                         
+║ ➻ ᴜᴘᴅᴀᴛᴇ  ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/vr_unreal)  
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ɴᴇᴄʀᴏᴍᴀɴᴄᴇʀ](https://t.me/VR_Necromancer)                         
 ╚═════════════════╝
 **"""
 
 HELP_READ = f"""**
-Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+cXIPgHSuJnxiNjU1).
+Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/vr_support).
 
 Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**
 """
@@ -44,7 +44,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /repo ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜᴇ ʙᴏᴛ!
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ᴄᴜᴛɪᴇ ✯ ᴅᴠ](https://t.me/OfficialDurgesh) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [ɴᴇᴄʀᴏᴍᴀɴᴄᴇʀ](https://t.me/VR_Necromancer) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -58,10 +58,10 @@ CHATBOT_READ = f"""**
 ──────────────
 /status - ᴄʜᴇᴄᴋ ᴄʜᴀᴛʙᴏᴛ ᴀᴄᴛɪᴠᴇ ᴏʀ ɴᴏᴛ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴄᴜᴛɪᴇ ✯ ᴅᴠ](https://t.me/OfficialDurgesh) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [ɴᴇᴄʀᴏᴍᴀɴᴄᴇʀ](https://t.me/VR_Necromancer) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{ERACHAT.name}](https://t.me/{ERACHAT.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/IamDvis/DV-CHATBOT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+cXIPgHSuJnxiNjU1).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴄᴜᴛɪᴇ ✯ ᴅᴠ](https://t.me/OfficialDurgesh) 💞**||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{ERACHAT.name}](https://t.me/{ERACHAT.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/vr_support).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [ɴᴇᴄʀᴏᴍᴀɴᴄᴇʀ](https://t.me/VR_Necromancer) 💞**||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
